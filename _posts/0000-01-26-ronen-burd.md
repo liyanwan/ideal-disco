@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our ronen-burd's deck!"
 ---
 
 This is Ronen's caption.
