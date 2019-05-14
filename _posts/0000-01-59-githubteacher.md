@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to githubteacher's slide!"
 ---
 
 If you can dodge a wrench...
