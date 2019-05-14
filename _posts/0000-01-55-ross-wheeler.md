@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Ross Wheeler's slide deck!"
 ---
 
 Caption here - make a change here to update
