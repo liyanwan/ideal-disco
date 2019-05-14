@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to mahanth's slide deck!"
 ---
 
 Not Today !
