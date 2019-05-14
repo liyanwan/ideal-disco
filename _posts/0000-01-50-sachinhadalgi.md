@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Sachin Hadalgi's slide deck!"
 ---
 
 Mood swings
